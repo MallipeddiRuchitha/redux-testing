@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactFormTemplate component Matches the snapshot 1`] = `
+<div
+  className="makeStyles-styleContactForm-1"
+  data-testid="ContactFormTemplate"
+>
+  <div
+    className="makeStyles-styleContactMainContent-2"
+    data-testid="contactform"
+  >
+    <div
+      className="makeStyles-forms-4"
+    >
+      <h4
+        className="MuiTypography-root MuiTypography-h4"
+      >
+         Contacts Application
+      </h4>
+      <h5
+        className="MuiTypography-root makeStyles-heading-6 MuiTypography-h5"
+      >
+        Add Contact Form
+      </h5>
+      <form>
+        <div
+          className="makeStyles-input-5"
+        >
+          <h6
+            className="MuiTypography-root MuiTypography-h6"
+          >
+            Contact Name
+          </h6>
+          <div
+            className="makeStyles-styleInputFields-9"
+            data-testid="input"
+          >
+            <div
+              className="MuiInputBase-root MuiInput-root MuiInput-underline"
+              onClick={[Function]}
+              required={true}
+              style={
+                Object {
+                  "color": "#000",
+                }
+              }
+            >
+              <input
+                className="MuiInputBase-input MuiInput-input"
+                data-testid="value"
+                onAnimationStart={[Function]}
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                required={true}
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+          <h6
+            className="MuiTypography-root MuiTypography-h6"
+          >
+            Email
+          </h6>
+          <div
+            className="makeStyles-styleInputFields-9"
+            data-testid="input"
+          >
+            <div
+              className="MuiInputBase-root MuiInput-root MuiInput-underline"
+              onClick={[Function]}
+              required={true}
+              style={
+                Object {
+                  "color": "#000",
+                }
+              }
+            >
+              <input
+                className="MuiInputBase-input MuiInput-input"
+                data-testid="value"
+                onAnimationStart={[Function]}
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                required={true}
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            className="makeStyles-button-7"
+          >
+            <div
+              data-testid="button"
+            >
+              <button
+                className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="MuiButton-label"
+                >
+                  <span
+                    className="MuiTypography-root MuiTypography-button"
+                  >
+                     
+                    Save
+                  </span>
+                </span>
+                <span
+                  className="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+    <hr
+      className="MuiDivider-root"
+    />
+  </div>
+  <div
+    data-testid="contactlist"
+  />
+</div>
+`;
